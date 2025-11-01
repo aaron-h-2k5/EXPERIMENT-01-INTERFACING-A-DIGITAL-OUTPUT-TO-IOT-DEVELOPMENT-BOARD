@@ -176,11 +176,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
-### RELAY OFF:
-![Slide1](https://github.com/user-attachments/assets/c8ab7d2c-264e-4045-8c9d-2eefe1d4d478)
+## LED ON
+![onn](https://github.com/user-attachments/assets/8aeb5682-36c8-4165-9284-85b828a7febc)
 
-### RELAY ON:
-![Slide2](https://github.com/user-attachments/assets/8a6a0a0e-b16c-4da7-9d6b-be629827103e)
+## LED OFF
+![off](https://github.com/user-attachments/assets/a1ac203c-7cf0-4fc6-aec3-b1a6951d7229)
+
 
 ## Result
 
